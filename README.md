@@ -6,6 +6,9 @@ Essa atividade tem o objetivo de trazer conhecimentos em Banco De Dados, essa at
 
 ## PASSO A PASSO DA ATIVIDADE PROPOSTA PELO TUTOR
 
+![image](https://github.com/MatheusLaiaa/VIEW/assets/144149403/09eb86b6-16e1-40fa-985f-d6547fab5581)
+
+
 ### Crie uma view que mostra todos os produtos e suas respectivas marcas;
 
 CREATE VIEW produtos_com_marcas AS
