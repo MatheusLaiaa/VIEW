@@ -8,6 +8,7 @@ Essa atividade tem o objetivo de trazer conhecimentos em Banco De Dados, essa at
 
 ![image](https://github.com/MatheusLaiaa/VIEW/assets/144149403/09eb86b6-16e1-40fa-985f-d6547fab5581)
 
+# CODIGO ATULIZADO AO DECORRER DA ATIVIDADE
 
 ### Crie uma view que mostra todos os produtos e suas respectivas marcas;
 
